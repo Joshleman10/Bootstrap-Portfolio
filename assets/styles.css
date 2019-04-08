@@ -6,7 +6,6 @@
 }
 p{
     text-indent: 25px;
-    max-width:100%;
 }
 img{
     max-width: 100%;
@@ -46,4 +45,39 @@ img{
 }
 button{
     margin-top:30px;
+}
+#port{
+    margin-left:20px;
+}
+#propic{
+    height:260px;
+    float:left;
+    margin-right:5px;
+}
+#linkedinpic{
+    max-height:25px;
+    margin-right:20px;
+    margin-left:5px;
+    float:right;
+}
+#githubpic{
+    max-height:25px;
+    margin-left:5px;
+    float:right;
+}
+#github{
+    float:right;
+}
+#linkedin{
+    float:right;
+}
+#resume{
+    font-size:15px;
+    float:left;
+}
+#myName{
+    font-weight:bolder;
+}
+.contactinfo{
+    margin-top:8px;
 }
